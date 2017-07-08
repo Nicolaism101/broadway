@@ -8,6 +8,9 @@ h1 {
 h6 {
 	display: inline;
 }
+p {
+	font-size: 14px;
+}
 nav a {
 	color: white;
 	font-size:16px;
@@ -15,11 +18,11 @@ nav a {
 }
 #first {
 	color:white;
-	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+	background-image: url(file:///C:/cygwin/home/jan/projects/broadway/resources/images/the-flatiron-building.png);
 }
 #where {
 	color:white;
-	background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+	background-image: url(file:///C:/cygwin/home/jan/projects/broadway/resources/images/the-flatiron-building.png);
 }
 #two {
 	color:white;
